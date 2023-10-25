@@ -9,4 +9,4 @@ voting classifier, SVM, logisitc regression or decision tree classifier. The bes
 * xgboost
 * seaborn
 ## Status
-The project is ongoing.
+The project has been completed.
